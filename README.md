@@ -4,21 +4,6 @@
 
 This is the PySide6 desktop version of OT Asset Mapper.
 
-## What's fixed in v2
-
-- Left panel width improved
-- Buttons are no longer cut off
-- Reports section has clearer buttons
-- File menu now includes:
-  - Export Asset Inventory CSV
-  - Export Communication Matrix CSV
-  - Export Excel Workbook
-  - Export HTML Report
-- CSV/Excel input support improved
-- Sample data includes:
-  - comma CSV
-  - semicolon CSV for European/Turkish Excel
-  - Excel XLSX sample
 
 ## Install
 
